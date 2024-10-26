@@ -33,7 +33,7 @@ TMPS/
 └── lab1/
     ├── __init__.py     # Empty file
     ├── character.py    # Main code
-    └── README.md       # Documentation
+    └── RaportLab1TMPS.md       # Documentation
 ```
 
 ## Output
