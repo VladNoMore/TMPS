@@ -31,7 +31,6 @@ This project is all about building a **Game Character Creation System** using Cr
 ```
 TMPS/
 └── lab1/
-    ├── __init__.py     # Empty file
     ├── character.py    # Main code
     └── RaportLab1TMPS.md       # Documentation
 ```
