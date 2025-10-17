@@ -1,5 +1,5 @@
 
-# Laboratory Work #2 - Structural Design Patterns
+# Laboratory Work #3 - Structural Design Patterns
 
 **Author:** Pîslaru Vladislav  
 **Group:** FAF-223  
